@@ -1,5 +1,5 @@
 # GUI-in-Python-
-# GUI-in-Python
+
 
 **GUI-in-Python** is a collection of beginner to intermediate-level graphical user interface (GUI) projects built using Python. This repository demonstrates how to build interactive desktop applications using popular libraries such as Tkinter and PyQt.
 
