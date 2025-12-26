@@ -10,6 +10,11 @@
     "def f(x):\n",
     "    return x**2 + 3\n",
     "\n",
+    "def g(x):\n",
+    "    return x ** 2 - 1\n",
+    "\n",
+    "\n",
+    "\n",
     "    \n"
    ]
   }
