@@ -5,4 +5,4 @@ def f(x):
     return x + 27
 
 def g(x):
-    return x * x - 1
+    return x ** x - 1
