@@ -1,7 +1,7 @@
 import sumClass as sc
 
 def f(x):
-    return x - 1
+    return x**2 - 1
 
 print(sc.f(2))   # 5
 print(f(1))      # 0
