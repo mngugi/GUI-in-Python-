@@ -1,6 +1,11 @@
 import keyword 
+
+# return keyword list
 def get_keywords():
-    j = keyword.kwlist
-    return j    
- # Call the function    
-print ("Python Keyword lists:", get_keywords())   
+    
+    return keyword.kwlist
+
+def is_keyword(word):
+    return keyword.is_keyword(word)
+    
+
