@@ -1,6 +1,6 @@
 import keyword 
-def keywords():
+def get_keywords():
     j = keyword.kwlist
     return j    
  # Call the function    
-print ("Python Keyword lists:", keywords())   
+print ("Python Keyword lists:", get_keywords())   
