@@ -11,7 +11,7 @@ title = tk.Label(root, text="Python Keywords", font=("Arial", 14, "bold"))
 title.pack(pady=10)
 
 # --- Text area to show keywords ---
-text_area = tk.Text(root, height=15, width=40)
+text_area = tk.Text(root, height=11, width=70)
 text_area.pack()
 
 # Insert keywords
