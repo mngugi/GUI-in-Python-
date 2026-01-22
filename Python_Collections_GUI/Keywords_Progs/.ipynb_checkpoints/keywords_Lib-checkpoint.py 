@@ -1,0 +1,6 @@
+import keyword 
+def keywords():
+    j = keyword.kwlist
+    return j    
+ # Call the function    
+print ("Python Keyword lists:", keywords())   
