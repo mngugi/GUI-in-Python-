@@ -74,7 +74,7 @@
 
 ## 🤝 Contributing
 
-Got a cool Python GUI idea? Contributions and enhancements are welcome! Fork the repository and open a pull request with your additions or improvements.
+- Got a cool Python GUI idea? Contributions and enhancements are welcome! Fork the repository and open a pull request with your additions or improvements.
 
 ---
 
